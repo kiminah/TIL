@@ -52,6 +52,17 @@ Initialized empty Git repository in C:/Users/kimih/OneDrive/바탕 화면/정리
 > 커밋을 위한 파일 목록(staging area)
 
 ```bash
+$ git add . # 모든 파일
+$ git add a.txt # 특정 파일
+$ git add a.txt b.txt # 여러 파일
+$ git add md-images/ # 특정 폴더
+```
+
+
+
+* 실습
+
+```bash
 $ touch test.txt
 ```
 
